@@ -8,3 +8,5 @@
 ## 青銅龍 活動
 
 # Allen was protesting after I get hired?
+
+GOD:/
