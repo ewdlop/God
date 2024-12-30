@@ -1,5 +1,213 @@
 # God
 
+# God - Tier Set Pieces
+
+All those affixes from diablo 2.
+
+Text modifiers for the items.
+
+## 150 Energy Conversion Device Ideas
+
+### 1. Common and Existing Devices
+
+1. Solar panels (photovoltaic cells)
+2. Wind turbines
+3. Hydroelectric dams
+4. Geothermal power plants
+5. Biomass converters
+6. Fuel cells
+7. Thermoelectric generators
+8. Piezoelectric devices
+9. Dynamos
+10. Steam turbines
+
+### 2. Emerging and Innovative Technologies
+
+1. Artificial photosynthesis systems
+2. Quantum dot solar cells
+3. Triboelectric nanogenerators
+4. Microbial fuel cells
+5. Thermoradiative cells
+6. Ocean thermal energy converters (OTEC)
+7. Salinity gradient power generators
+8. Bioelectrochemical systems
+9. Betavoltaic devices
+10. Magnetohydrodynamic generators
+
+### 3. Biologically Inspired Devices
+
+1. Chlorophyll-based solar cells
+2. Bioluminescent energy harvesters
+3. Electric eel-inspired power cells
+4. Plant-microbial fuel cells
+5. Photosynthetic bacteria power generators
+6. Enzyme-based biofuel cells
+7. Biomimetic wind energy harvesters
+8. Artificial leaf devices
+9. DNA-based nanomachines for energy conversion
+10. Protein-based molecular motors
+
+### 4. Wearable and Personal Energy Converters
+
+1. Kinetic energy-harvesting shoes
+2. Thermoelectric clothing
+3. Solar-powered backpacks
+4. Breath-powered generators
+5. Body heat-to-electricity converters
+6. Motion-powered smart watches
+7. Sweat-based biofuel cells
+8. Piezoelectric knee braces
+9. Blood glucose fuel cells
+10. Neural impulse energy harvesters
+
+### 5. Environmental and Weather-based Devices
+
+1. Lightning energy capturers
+2. Tornado-harnessing wind turbines
+3. Snow-based triboelectric generators
+4. Fog-harvesting energy converters
+5. Sand storm electricity generators
+6. Aurora borealis energy collectors
+7. Volcanic heat energy taps
+8. Atmospheric electricity harvesters
+9. Tidal bore power generators
+10. Monsoon wind energy systems
+
+### 6. Quantum and Subatomic Level Devices
+
+1. Zero-point energy extractors
+2. Quantum vacuum plasma thrusters
+3. Casimir effect energy harvesters
+4. Quantum dot heat engines
+5. Spin-based quantum energy converters
+6. Quantum coherence energy harvesters
+7. Quantum tunneling generators
+8. Entanglement-based energy transfer devices
+9. Quantum superposition energy extractors
+10. Quantum fluctuation harvesters
+
+### 7. Space-based Energy Conversion Devices
+
+1. Dyson sphere
+2. Solar wind energy collectors
+3. Interstellar plasma energy converters
+4. Dark matter energy taps
+5. Cosmic ray energy harvesters
+6. Gravitational wave energy extractors
+7. Hawking radiation collectors
+8. Magnetosphere energy taps
+9. Asteroid mining and conversion plants
+10. Planetary core heat harvesters
+
+### 8. Nanoscale Energy Conversion Devices
+
+1. Molecular motors
+2. Nanobot swarm energy converters
+3. Carbon nanotube-based thermoelectric devices
+4. Single-molecule photovoltaic cells
+5. Nanoscale piezoelectric generators
+6. Quantum dot arrays for energy harvesting
+7. Plasmonic nanostructures for light-to-heat conversion
+8. DNA origami-based energy transducers
+9. Nano-antenna arrays for electromagnetic energy harvesting
+10. Single-atom heat engines
+
+### 9. Exotic Matter and Theoretical Physics-based Devices
+
+1. Antimatter annihilation reactors
+2. Tachyonic energy harvesters
+3. Wormhole energy taps
+4. Parallel universe energy exchangers
+5. Time crystal perpetual motion machines
+6. Quantum foam energy extractors
+7. String theory vibration harvesters
+8. Brane collision energy capturers
+9. Higgs field energy taps
+10. Axion particle detectors and converters
+
+### 10. Interdimensional and Reality-warping Devices
+
+1. Reality distortion field generators
+2. Probability manipulation energy harvesters
+3. Quantum superposition state collapsers
+4. Multiverse energy taps
+5. Temporal energy extractors
+6. Psychic energy converters
+7. Dream-state energy harvesters
+8. Alternate timeline energy exchangers
+9. Collective consciousness power taps
+10. Quantum observer effect energy generators
+
+### 11. Fictional and Speculative Devices
+
+1. Flux capacitors
+2. Dilithium crystal reactors
+3. Arc reactors (Iron Man style)
+4. Unobtanium-based energy converters
+5. Pandora's box energy taps
+6. Phoenix force harnesses
+7. Infinity stone power extractors
+8. Midichlorian energy converters
+9. Matrix human battery systems
+10. Ghostbusters-style containment unit power taps
+
+### 12. Hybrid and Combination Devices
+
+1. Solar-wind hybrid systems
+2. Geothermal-piezoelectric combinators
+3. Biomass-fusion reactors
+4. Quantum-biological energy converters
+5. Thermo-photovoltaic devices
+6. Pyroelectric-triboelectric nanogenerators
+7. Magneto-caloric energy harvesters
+8. Radio-photovoltaic cells
+9. Electro-chemical-mechanical energy converters
+10. Thermo-acoustic-electric generators
+
+### 13. Conceptual and Abstract Energy Conversion Devices
+
+1. Emotion-to-energy converters
+2. Thought-powered generators
+3. Karma energy accumulators
+4. Artistic expression power plants
+5. Mathematical equation solvers as energy sources
+6. Philosophy debate energy extractors
+7. Dream-to-reality energy converters
+8. Memory-to-power transformers
+9. Synchronicity harvesters
+10. Collective belief energy taps
+
+### 14. Futuristic Societal-scale Devices
+
+1. Global consciousness network power grids
+2. Planetary core fusion reactors
+3. Orbital ring energy collection systems
+4. Atmospheric buoyancy energy farms
+5. Deep sea pressure differential power plants
+6. Continental drift energy harvesters
+7. Planetary magnetic field taps
+8. Ionospheric energy collectors
+9. Global temperature gradient power systems
+10. Planetary rotation energy extractors
+
+### 15. Transcendent Energy Conversion Concepts
+
+1. Universal entropy reversal engines
+2. Big Bang energy taps
+3. Cosmic background radiation harvesters
+4. Vacuum energy stabilization reactors
+5. Planck scale energy extractors
+6. Singularity energy converters
+7. Holographic universe principle power taps
+8. Anthropic principle energy harvesters
+9. Universal constants manipulation generators
+10. Metaverse energy exchange portals
+
+This list covers a wide range of energy conversion devices, from the practical and currently existing to the highly speculative and even fictional. It includes ideas based on current scientific understanding, emerging technologies, and concepts that push the boundaries of our imagination. Remember that while many of these ideas are purely speculative or currently impossible, they can serve as inspiration for future innovations or creative storytelling.
+
+(AI is the future! LOL)
+
+
 # There are more things that work out in the real world than in the digital world. PSYCHES <----------?
 
 [Mysterious and not miraculous at all](Screenshot%202023-12-05%20175552.png)
